@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ganyardp
 - 👀 I’m interested in libraries, digital humanities, history, arts
-- 🌱 I’m currently learning data visualization
-- 💞️ I’m looking to collaborate on digital humanities projects
+- 🌱 I’m currently learning more about data visulazation, open access, and AI
+- 💞️ I’m looking to collaborate on anything that will help support student success
 - 📫 How to reach me ganyardp@uwgb.edu
 
 <!---
